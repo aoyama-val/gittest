@@ -1,2 +1,2 @@
 puts Time.now
-puts "xxx"
+puts "ddd"
