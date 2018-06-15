@@ -1,4 +1,4 @@
-puts Time.now
-puts "ddd"
+print Time.now
+print "ddd"
 xxx
 uyy
