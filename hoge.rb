@@ -1,4 +1,5 @@
-puts Time.now
-puts "ddd"
+print Time.now
+asdasd
+print "ddd"
 xxx
 uyy
