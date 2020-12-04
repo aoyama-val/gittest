@@ -1,4 +1,4 @@
-branch1
+branch2
 # gitの練習
 
 mmmmmmmmmmmm
